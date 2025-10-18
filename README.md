@@ -2,12 +2,11 @@
 
 Sistema completo de gerenciamento de senhas desenvolvido em Python com interface web usando Streamlit, autenticação via Redis e armazenamento no MongoDB Atlas.
 
-## 🎥 Vídeo Explicativo
+## 🎥 Miniatura do Vídeo
 
-Assista ao vídeo no YouTube explicando o projeto:  
-[![Miniatura do Vídeo]([https://img.youtube.com/vi/KGwS9bf6dFI/0.jpg)](https://www.youtube.com/watch?v=KGwS9bf6dFI&t=95s](https://www.youtube.com/watch?v=z3osUT0wtbk))
+A arte da miniatura usada no vídeo está disponível no link abaixo:
 
-**CLIQUE NA IMAGEM**
+🔗 **[Assista no YouTube](https://www.youtube.com/watch?v=z3osUT0wtbk)**
 
 ## 📋 Índice
 
