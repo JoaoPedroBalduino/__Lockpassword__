@@ -5,8 +5,7 @@ Sistema completo de gerenciamento de senhas desenvolvido em Python com interface
 ## 🎥 Vídeo Explicativo
 
 Assista ao vídeo no YouTube explicando o projeto:  
-[![Miniatura do Vídeo](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b91a581d-79ea-443f-99cc-664aaccd8d6d" />
-)](https://www.youtube.com/watch?v=z3osUT0wtbk&t=5s)
+[![Miniatura do Vídeo](<img width="1536" height="1024" alt="8bcd8672-53b4-4436-8685-33fd3e11e858" src="https://github.com/user-attachments/assets/5b65ade6-3e31-45ee-95ab-f12789e01af0" />)](https://www.youtube.com/watch?v=z3osUT0wtbk&t=5s)
 
 ## 📋 Índice
 
